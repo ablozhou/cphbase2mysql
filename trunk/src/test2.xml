@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <property>
+		<name>test1</name>
+		<value>tdata1</value>
+	</property>
+	<property>
+		<name>test2</name>
+		<value>tdata2</value>
+	</property>
+</configuration>
